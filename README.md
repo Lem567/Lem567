@@ -1,5 +1,5 @@
 
-Hello and welcome to my repository of an experienced professional worked in Project Data Analysis, reprting, Knowledge Management, Monitoring, Evaluation, Research, and Learning Activities.
+Hello and welcome to my repository of an experienced professional worked in Project Data Analysis, reporting, Knowledge Management, Monitoring, Evaluation, Research, and Learning Activities.
 This overview of repository serves as my portfolio to summarize years of expertise and the methodologies, and tools I  used to deliver impactful solutions in project and business and research and development.With years of experience across various international and private sectors, I have delivered insights and solutions in monitoring, analyzing, evaluating and reporting of data to enhance informed decision-making and improve project progress. 
 
 # TripleTen_projects
