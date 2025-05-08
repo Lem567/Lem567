@@ -1,15 +1,35 @@
+<h1 align="center">Hi 👋, I'm Lemlem Semere</h1>
+<h3 align="center">A passionate professional on BI Analytics</h3>
 
-Hello and welcome to my repository of an experienced professional worked in Project Data Analysis, reporting, Knowledge Management, Monitoring, Evaluation, Research, and Learning Activities.
-This overview of repository serves as my portfolio to summarize years of expertise and the methodologies, and tools I  used to deliver impactful solutions in project and business and research and development.With years of experience across various international and private sectors, I have delivered insights and solutions in monitoring, analyzing, evaluating and reporting of data to enhance informed decision-making and improve project progress. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lem567&label=Profile%20views&color=0e75b6&style=flat" alt="lem567" /> </p>
 
-# TripleTen_projects
-Projects I worked on while attending the Business Data Analysis TripleTen Bootcamp.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lem567" alt="lem567" /></a> </p>
 
-| Project number | Title | Description |
-| SQL data proccessing | Tableau | Data visualizations and Prsentations|
-| 1 | Super store story telling; The project task was to analyze user data and find possible causes for the company’s high return rates.
-https://public.tableau.com/app/profile/lemlem.semere/viz/Superstorestorytellingexercise/StoriesPresentation
-https://public.tableau.com/app/profile/lemlem.semere/viz/Superstorestorytellingexercise/Dashboard2
-| The project task was to prepare a business report that gives insight into the returning habits of customers |
-| 3 |SQL business Analysis | The project task was to study the sales funnel and analyze the results to help decsion making. |
-Project 4/ Creating spread sheets and advising investments for an Air benbi businesses. 
+- 🔭 I’m currently working on **Career accelaration**
+
+- 🌱 I’m currently learning **Python**
+
+- 👯 I’m looking to collaborate on **BI Projects**
+
+- 🤝 I’m looking for help with **Networking**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Lem567/BI-Analytics-Projects-Portifolio](https://github.com/Lem567/BI-Analytics-Projects-Portifolio)
+
+- 💬 Ask me about **DATA analysis and report writing**
+
+- 📫 How to reach me **lemlem.brhane12@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1DGESKy2MH9ryXJUUC-DFRytMKbE9QIdqdUIQgda25ZI/edit?usp=sharing](https://docs.google.com/document/d/1DGESKy2MH9ryXJUUC-DFRytMKbE9QIdqdUIQgda25ZI/edit?usp=sharing)
+
+- ⚡ Fun fact **Sociability**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lemlem-semere-87b21281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemlem-semere-87b21281/" height="30" width="40" /></a>
+<a href="https://discord.gg/lemlem.brhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lemlem.brhane" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lem567&show_icons=true&locale=en&layout=compact" alt="lem567" /></p>
